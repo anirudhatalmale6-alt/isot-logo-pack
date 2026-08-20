@@ -17,3 +17,16 @@ corner. They have been removed from the source artwork, so every file here is cl
 
 SVG is the master: it stays sharp at any size. Use the PNGs where SVG is not accepted
 (Word, PowerPoint, most social profiles).
+
+## If SVG will not open
+
+SVG is a web format. Phones and most chat apps will not preview it, and some just spin
+forever trying. Use the **PDF** instead — it is the same vector artwork, stays sharp at any
+size, and opens natively on a phone, a Mac, Windows and in any print shop.
+
+| File | Use |
+|---|---|
+| `isot-logo-color.pdf` | Main logo, vector. Give this to printers, sign makers and designers. |
+| `isot-logo-white.pdf` | All-white version, vector. |
+| `isot-logo-white-gold.pdf` | White + gold version, vector. |
+| `*-2400.png` | 2400px wide, transparent. For anything that wants a big image file. |
